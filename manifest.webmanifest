@@ -1,0 +1,19 @@
+{
+  "name": "WBL Lerntrainer – 404 Multiple-Choice-Fragen",
+  "short_name": "WBL Trainer",
+  "description": "WBL-Fragenkatalog mit Referenzen, Zufallsantworten und flexibler Auswertung",
+  "lang": "de",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#124c60",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
